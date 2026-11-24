@@ -76,7 +76,7 @@ main/
 
     └-- plots/                     # class distribution, missing values, metric charts, ROC, confusion 
 
-
+|--labscreenshots                  #screenshots of execution in lab
 
 ### Execution instructions
 
