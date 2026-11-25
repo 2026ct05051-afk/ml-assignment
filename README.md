@@ -82,9 +82,9 @@ main/
 
 # 1. Clone the repository
 
-git clone <your-repo-url>
+git clone https://github.com/2026ct05051-afk/ml-assignment.git
 
-cd <repo-folder>
+cd main
 
 
 
@@ -100,15 +100,7 @@ python model/train_models.py
 
 
 
-# 4. (Optional) Re-evaluate the saved models on test_data.csv without retraining
-
-python model/evaluate_saved_models.py
-
-```
-
-
-
-**Or run it in Jupyter Notebook:** start `jupyter notebook` in the project folder, open `model/ML_Assignment_2.ipynb` and choose *Kernel → Restart & Run All*.
+# Run it in Jupyter Notebook:** start `jupyter notebook` in the project folder, open `model/ML_Assignment_2.ipynb` and choose *Kernel → Restart & Run All*.
 
 ## 4. Data Preprocessing
 
